@@ -1,0 +1,25 @@
+h1{
+  font-size: 50px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.subtitle{
+  text-align: center;
+  font-style: italic;
+  color: grey;
+  font-family: 'Concert One', cursive;
+}
+
+#intro{
+  text-align: center;
+  font-size: 18px;
+}
+
+.picture{
+  max-height: 400px;
+}
+
+.center{
+  text-align: center;
+}
